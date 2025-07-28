@@ -1,6 +1,3 @@
-물론이죠 민지님! 🎀 README 꾸미기라면 제가 진심을 담아서 도와드릴게요.  
-보기만 해도 프로젝트의 분위기가 느껴지도록 ✨깔끔하고 세련된 Markdown 스타일✨로 리팩토링해봤어요:
-
 ---
 
 # 🎧 YouTube History Music Recommender  
