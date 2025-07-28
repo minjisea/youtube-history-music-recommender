@@ -8,7 +8,7 @@ from googleapiclient.discovery import build  # YouTube Data API v3
 
 # ---------- 1.  CONFIG ----------
 DATA_PATH        = pathlib.Path("C:/Users/ohdon/Downloads/시청기록최근3년.csv")   # adjust
-API_KEY          = "AIzaSyBigy7X8-A-F9QupuF1HYcqMze_R8GxUls"                 # optional but unlocks richer insights
+API_KEY          = ""                 # optional but unlocks richer insights
 MAX_API_BATCH    = 50                                  # YT API limit
 SESSION_GAP      = pd.Timedelta(minutes=30)            # gap that splits sessions
 
