@@ -40,8 +40,8 @@
 │   └── youtube_history.csv
 ├── scripts/
 │   ├── 01_preprocess_history_data.py
-│   ├── 02_enrich_with_api.py
-│   └── 03_analyze_enriched_data.py
+│   ├── 02_analyze_enriched_data.py
+│   └── 03_
 ```
 
 ---
